@@ -1,0 +1,19 @@
+# VS Code 설정 파일
+.vscode/
+
+# csv 데이터
+data/*.csv
+
+# kaggle API 인증키
+kaggle.json
+
+# loggings
+.log
+
+# Scala sbt target 폴더
+code/target/
+code/project/
+
+# 다운로드된 Kaggle 데이터 파일
+data/*
+!data/.nomeadia
